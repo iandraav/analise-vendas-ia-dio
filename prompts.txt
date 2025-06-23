@@ -1,0 +1,7 @@
+1. Liste os produtos mais vendidos em quantidade.
+2. Liste os produtos mais lucrativos em valor total.
+3. Qual o total de vendas por país?
+4. Qual o total de vendas por plataforma (site)?
+5. Qual o valor total de descontos aplicados?
+6. Qual a idade média dos compradores?
+7. Como se comportam as vendas ao longo dos meses?
